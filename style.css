@@ -1,0 +1,59 @@
+body {
+  font-family: sans-serif;
+  background: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 400px;
+  margin: 50px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+input, button {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+button {
+  background: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+.error {
+  color: red;
+  font-size: 0.9em;
+  margin-top: 5px;
+  text-align: center;
+}
+
+.auth-box {
+  text-align: center;
+}
+
+.container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+select {
+  padding: 10px;
+  margin: 10px 0;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: #555;
+}
