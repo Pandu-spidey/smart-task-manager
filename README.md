@@ -14,6 +14,18 @@ Aplikasi manajemen tugas sederhana berbasis web, cocok untuk latihan logika, CRU
 - 📅 Kalender deadline (Flatpickr)
 - 🚪 Logout aman
 
+## 🖼️ Preview Tampilan
+
+### Halaman Login
+![Login](login.png)
+
+### Index
+![Index](index.png)
+
+### Statistik
+![Statistik](statistik.png)
+
+
 ## 🛠️ Teknologi
 
 - Frontend: HTML, CSS, JavaScript
